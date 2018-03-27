@@ -1,0 +1,6 @@
+-------------Angular 5 for Greater than 5--------------------
+ERROR : Cannot find module '@angular-devkit/core'
+SOLUTION:  npm install -g @angular-devkit/core
+	      npm install @angular-devkit/core --save
+
+
